@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d20313deaa2145a29b27eeb37bb4511, type: 3}
+  m_Name: Character1
+  m_EditorClassIdentifier: 
+  spriteCharacter: {fileID: 21300000, guid: 54a57bdcf8dae4be1841b112d60eb5cc, type: 3}
+  spriteCharacterHead: {fileID: 21300000, guid: 1a69071779c914b5fbfc7384e8d6a2cd,
+    type: 3}
+  spriteCharacterBody: {fileID: 21300000, guid: 77ef85c3471b04daa951f7ec8324e02d,
+    type: 3}
+  spriteCharacterWing: {fileID: 21300000, guid: 8be0418cd6dbc40e9ba36e09c48e7d26,
+    type: 3}
+  costToUnlock: 0
